@@ -1,8 +1,5 @@
 
 /*
- * Project 1
- * Team G12
- * 
  * This file includes source code for Functionality 1 - obstacle avoidance,
  * Functionality 2 - line following, 
  * Functionality 3 - additional clap control functionality,
